@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch2cwuf403232"
-path="res://.godot/imported/limiter.svg-3d72aa0ffb193970d591c3455eb4f990.ctex"
+path="res://.godot/imported/limiter.svg-ab8853db27f2aefd6c24b391efe3dec4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modules/behavior_tree/icons/limiter.svg"
-dest_files=["res://.godot/imported/limiter.svg-3d72aa0ffb193970d591c3455eb4f990.ctex"]
+source_file="res://common/behaviour-tree-godot/icons/limiter.svg"
+dest_files=["res://.godot/imported/limiter.svg-ab8853db27f2aefd6c24b391efe3dec4.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://68ethadq8445"
-path="res://.godot/imported/fail.svg-1e199a07aad769f2d5e244ecdd42458e.ctex"
+path="res://.godot/imported/fail.svg-6d8f1b44177f8f300fad12dca6f4dffa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modules/behavior_tree/icons/fail.svg"
-dest_files=["res://.godot/imported/fail.svg-1e199a07aad769f2d5e244ecdd42458e.ctex"]
+source_file="res://common/behaviour-tree-godot/icons/fail.svg"
+dest_files=["res://.godot/imported/fail.svg-6d8f1b44177f8f300fad12dca6f4dffa.ctex"]
 
 [params]
 

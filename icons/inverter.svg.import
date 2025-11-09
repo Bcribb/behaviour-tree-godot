@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu2kw44l34g5h"
-path="res://.godot/imported/inverter.svg-b1d1a3063b359d936e934f3ff0678cad.ctex"
+path="res://.godot/imported/inverter.svg-8eb0e3d2e1056072cac5e382bcf0ac6a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modules/behavior_tree/icons/inverter.svg"
-dest_files=["res://.godot/imported/inverter.svg-b1d1a3063b359d936e934f3ff0678cad.ctex"]
+source_file="res://common/behaviour-tree-godot/icons/inverter.svg"
+dest_files=["res://.godot/imported/inverter.svg-8eb0e3d2e1056072cac5e382bcf0ac6a.ctex"]
 
 [params]
 

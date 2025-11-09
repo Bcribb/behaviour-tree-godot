@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uijg1dete21v"
-path="res://.godot/imported/succeed.svg-47646c91fa51a01e79ba33636f6a8894.ctex"
+path="res://.godot/imported/succeed.svg-62727586af24c958bba1d7a079f899f6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modules/behavior_tree/icons/succeed.svg"
-dest_files=["res://.godot/imported/succeed.svg-47646c91fa51a01e79ba33636f6a8894.ctex"]
+source_file="res://common/behaviour-tree-godot/icons/succeed.svg"
+dest_files=["res://.godot/imported/succeed.svg-62727586af24c958bba1d7a079f899f6.ctex"]
 
 [params]
 
