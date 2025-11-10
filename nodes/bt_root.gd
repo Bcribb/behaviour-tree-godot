@@ -6,7 +6,7 @@ extends BehaviourTree
 @export var enabled := true
 
 
-@onready var blackboard := Blackboard.new()
+var blackboard : Blackboard
 
 
 func _ready() -> void:
@@ -22,7 +22,7 @@ func _physics_process(delta : float) -> void:
 	if not enabled:
 		return
 	
-	blackboard.set("delta", delta)
+	blackboard.set_value("delta", delta)
 	
 	self.get_child(0).tick(get_parent(), blackboard)
 
